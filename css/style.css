@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Abel|Roboto&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Abel', sans-serif;
+	font-size: 14px;
+	margin: 0px;
+}
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 35px;
+	margin-top: 277px;
+}
+
+a {
+	text-decoration: none;
+}
